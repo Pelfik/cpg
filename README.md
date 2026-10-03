@@ -1,0 +1,2 @@
+# cpg
+zaklady programovani
