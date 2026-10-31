@@ -11,7 +11,7 @@ def je_prvocislo(cislo):
         if cislo % delitel == 0:
             return False
     return True
-2
+
 def vrat_prvocisla(maximum):
 
     maximum = int(maximum)
